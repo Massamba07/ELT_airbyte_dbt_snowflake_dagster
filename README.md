@@ -1,7 +1,5 @@
 # Modern ELT demo 
 
-<img src="docs/dec-logo.png" width="250" height="250">
-
 
 ![airbyte](https://img.shields.io/badge/airbyte-integrate-blue)
 ![dbt](https://img.shields.io/badge/dbt-transform-blue)
